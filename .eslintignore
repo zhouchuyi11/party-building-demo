@@ -1,0 +1,11 @@
+node_modules
+.vscode
+.idea
+dist
+/public
+.eslintrc.js
+
+docs/.vuepress/dist
+docs/.vuepress/.cache
+docs/.vuepress/.temp
+docs/.vitepress/dist
