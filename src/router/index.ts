@@ -29,7 +29,7 @@ const routes: RouteRecordRaw[] = [
 	{
 		path: '/', //只能有一个路径
 		name: 'home',
-		component: () => import('@/views/home/Index2.vue'),
+		component: () => import('@/views/home/Index.vue'),
 		children: children
 	}
 ]
